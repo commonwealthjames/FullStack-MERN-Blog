@@ -1,0 +1,28 @@
+{
+  "name": "fullstack-mern-blog",
+  "version": "1.0.0",
+  "description": "Simple, full stack blog application built using MERN: MongoDB, Express, React and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commonwealthjames/FullStack-MERN-Blog.git"
+  },
+  "keywords": [
+    "MERN",
+    "full-stack",
+    "react",
+    "express",
+    "node",
+    "blog",
+    "CMS"
+  ],
+  "author": "James Harrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commonwealthjames/FullStack-MERN-Blog/issues"
+  },
+  "homepage": "https://github.com/commonwealthjames/FullStack-MERN-Blog#readme"
+}
